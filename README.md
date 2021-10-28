@@ -11,7 +11,7 @@ https://thyroid-classification.herokuapp.com/
 
 # Demo Link
 
-https://github.com/ahmadtaquee/thyroid-classification-end_to_end-deployment/blob/main/Docs/Thyroid-Disease-Detection-Demo.mp4
+https://github.com/guptapriyanka06/Thyroid_Disease_Classification_end_to_end_Deployment/blob/main/Docs/Thyroid-Disease-Detection-Demo.mp4
 
 # Technical aspect
 
